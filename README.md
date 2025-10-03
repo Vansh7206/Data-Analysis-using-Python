@@ -1,4 +1,5 @@
-📊 Blinkit Data Analysis
+<h1>📊 Blinkit Data Analysis</h1>
+
 A data analysis project on the Blinkit dataset, exploring sales patterns, outlet performance, and product attributes using Python.
 
 🚀 Features
@@ -64,4 +65,5 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 3. Run the notebook:
 jupyter notebook Blinkint_Data_Analysis.ipynb
+
 
