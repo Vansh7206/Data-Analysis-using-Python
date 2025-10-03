@@ -55,9 +55,7 @@ Key Columns:
 
 🖥️ How to Run
 
-1. Clone this repo:
-
-git clone https://github.com/your-username/blinkit-data-analysis.git
+1. Clone this repo: git clone https://github.com/your-username/blinkit-data-analysis.git
 cd blinkit-data-analysis
 
 2. Install requirements:
